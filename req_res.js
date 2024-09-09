@@ -40,5 +40,5 @@ fs.readFile(path,(err,data)=>{
 
 });
 server.listen(3000,'localhost',()=>{
-    console.log("server listenng...");
+    console.log("server listening...");
 })
